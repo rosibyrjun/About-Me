@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rosibyrjun
-- 👀 I’m interested in Arts and codes
-- 🌱 I’m currently learning Phyton & JavaScript 
-- 💞️ I’m looking to collaborate on anything actually 
-- 📫 How to reach me @rosibyrjun on Twitter @rosi.s.bispo IG
+- 👋 Hi, I’m Rosivan S. Bispo
+- 👀 I’m interested in arts, tech and AI
+- 🌱 I’m currently learning Phyton
+- 💞️ I’m not looking for collaborations at the moment 😭
+- 📫 reach me on IG: rosi.s.bispo or email: rosivansantos2@gmail.com
 
 <!---
 rosibyrjun/rosibyrjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
